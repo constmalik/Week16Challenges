@@ -1,0 +1,11 @@
+/Users/malikrobinson/Projects/MediumChallenge/MediumChallenge/bin/Debug/netcoreapp2.0/MediumChallenge.deps.json
+/Users/malikrobinson/Projects/MediumChallenge/MediumChallenge/bin/Debug/netcoreapp2.0/MediumChallenge.runtimeconfig.json
+/Users/malikrobinson/Projects/MediumChallenge/MediumChallenge/bin/Debug/netcoreapp2.0/MediumChallenge.runtimeconfig.dev.json
+/Users/malikrobinson/Projects/MediumChallenge/MediumChallenge/bin/Debug/netcoreapp2.0/MediumChallenge.dll
+/Users/malikrobinson/Projects/MediumChallenge/MediumChallenge/bin/Debug/netcoreapp2.0/MediumChallenge.pdb
+/Users/malikrobinson/Projects/MediumChallenge/MediumChallenge/obj/Debug/netcoreapp2.0/MediumChallenge.csprojResolveAssemblyReference.cache
+/Users/malikrobinson/Projects/MediumChallenge/MediumChallenge/obj/Debug/netcoreapp2.0/MediumChallenge.csproj.CoreCompileInputs.cache
+/Users/malikrobinson/Projects/MediumChallenge/MediumChallenge/obj/Debug/netcoreapp2.0/MediumChallenge.AssemblyInfoInputs.cache
+/Users/malikrobinson/Projects/MediumChallenge/MediumChallenge/obj/Debug/netcoreapp2.0/MediumChallenge.AssemblyInfo.cs
+/Users/malikrobinson/Projects/MediumChallenge/MediumChallenge/obj/Debug/netcoreapp2.0/MediumChallenge.dll
+/Users/malikrobinson/Projects/MediumChallenge/MediumChallenge/obj/Debug/netcoreapp2.0/MediumChallenge.pdb

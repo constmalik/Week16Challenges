@@ -1,0 +1,11 @@
+/Users/malikrobinson/Projects/HardChallenge/HardChallenge/bin/Debug/netcoreapp2.0/HardChallenge.deps.json
+/Users/malikrobinson/Projects/HardChallenge/HardChallenge/bin/Debug/netcoreapp2.0/HardChallenge.runtimeconfig.json
+/Users/malikrobinson/Projects/HardChallenge/HardChallenge/bin/Debug/netcoreapp2.0/HardChallenge.runtimeconfig.dev.json
+/Users/malikrobinson/Projects/HardChallenge/HardChallenge/bin/Debug/netcoreapp2.0/HardChallenge.dll
+/Users/malikrobinson/Projects/HardChallenge/HardChallenge/bin/Debug/netcoreapp2.0/HardChallenge.pdb
+/Users/malikrobinson/Projects/HardChallenge/HardChallenge/obj/Debug/netcoreapp2.0/HardChallenge.csprojResolveAssemblyReference.cache
+/Users/malikrobinson/Projects/HardChallenge/HardChallenge/obj/Debug/netcoreapp2.0/HardChallenge.csproj.CoreCompileInputs.cache
+/Users/malikrobinson/Projects/HardChallenge/HardChallenge/obj/Debug/netcoreapp2.0/HardChallenge.AssemblyInfoInputs.cache
+/Users/malikrobinson/Projects/HardChallenge/HardChallenge/obj/Debug/netcoreapp2.0/HardChallenge.AssemblyInfo.cs
+/Users/malikrobinson/Projects/HardChallenge/HardChallenge/obj/Debug/netcoreapp2.0/HardChallenge.dll
+/Users/malikrobinson/Projects/HardChallenge/HardChallenge/obj/Debug/netcoreapp2.0/HardChallenge.pdb

@@ -1,0 +1,11 @@
+/Users/malikrobinson/Projects/VeryHardChallenge/VeryHardChallenge/bin/Debug/netcoreapp2.0/VeryHardChallenge.deps.json
+/Users/malikrobinson/Projects/VeryHardChallenge/VeryHardChallenge/bin/Debug/netcoreapp2.0/VeryHardChallenge.runtimeconfig.json
+/Users/malikrobinson/Projects/VeryHardChallenge/VeryHardChallenge/bin/Debug/netcoreapp2.0/VeryHardChallenge.runtimeconfig.dev.json
+/Users/malikrobinson/Projects/VeryHardChallenge/VeryHardChallenge/bin/Debug/netcoreapp2.0/VeryHardChallenge.dll
+/Users/malikrobinson/Projects/VeryHardChallenge/VeryHardChallenge/bin/Debug/netcoreapp2.0/VeryHardChallenge.pdb
+/Users/malikrobinson/Projects/VeryHardChallenge/VeryHardChallenge/obj/Debug/netcoreapp2.0/VeryHardChallenge.csprojResolveAssemblyReference.cache
+/Users/malikrobinson/Projects/VeryHardChallenge/VeryHardChallenge/obj/Debug/netcoreapp2.0/VeryHardChallenge.csproj.CoreCompileInputs.cache
+/Users/malikrobinson/Projects/VeryHardChallenge/VeryHardChallenge/obj/Debug/netcoreapp2.0/VeryHardChallenge.AssemblyInfoInputs.cache
+/Users/malikrobinson/Projects/VeryHardChallenge/VeryHardChallenge/obj/Debug/netcoreapp2.0/VeryHardChallenge.AssemblyInfo.cs
+/Users/malikrobinson/Projects/VeryHardChallenge/VeryHardChallenge/obj/Debug/netcoreapp2.0/VeryHardChallenge.dll
+/Users/malikrobinson/Projects/VeryHardChallenge/VeryHardChallenge/obj/Debug/netcoreapp2.0/VeryHardChallenge.pdb

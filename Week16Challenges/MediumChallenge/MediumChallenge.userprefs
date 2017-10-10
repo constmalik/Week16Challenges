@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{03B8CFCE-0537-40B1-8287-8228B42B69DC}|Default">
+  <MonoDevelop.Ide.ItemProperties.MediumChallenge PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MediumChallenge/Program.cs">
+    <Files>
+      <File FileName="MediumChallenge/Program.cs" Line="16" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

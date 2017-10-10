@@ -1,0 +1,11 @@
+/Users/malikrobinson/Projects/VeryEasyChallenge/VeryEasyChallenge/bin/Debug/netcoreapp2.0/VeryEasyChallenge.deps.json
+/Users/malikrobinson/Projects/VeryEasyChallenge/VeryEasyChallenge/bin/Debug/netcoreapp2.0/VeryEasyChallenge.runtimeconfig.json
+/Users/malikrobinson/Projects/VeryEasyChallenge/VeryEasyChallenge/bin/Debug/netcoreapp2.0/VeryEasyChallenge.runtimeconfig.dev.json
+/Users/malikrobinson/Projects/VeryEasyChallenge/VeryEasyChallenge/bin/Debug/netcoreapp2.0/VeryEasyChallenge.dll
+/Users/malikrobinson/Projects/VeryEasyChallenge/VeryEasyChallenge/bin/Debug/netcoreapp2.0/VeryEasyChallenge.pdb
+/Users/malikrobinson/Projects/VeryEasyChallenge/VeryEasyChallenge/obj/Debug/netcoreapp2.0/VeryEasyChallenge.csprojResolveAssemblyReference.cache
+/Users/malikrobinson/Projects/VeryEasyChallenge/VeryEasyChallenge/obj/Debug/netcoreapp2.0/VeryEasyChallenge.csproj.CoreCompileInputs.cache
+/Users/malikrobinson/Projects/VeryEasyChallenge/VeryEasyChallenge/obj/Debug/netcoreapp2.0/VeryEasyChallenge.AssemblyInfoInputs.cache
+/Users/malikrobinson/Projects/VeryEasyChallenge/VeryEasyChallenge/obj/Debug/netcoreapp2.0/VeryEasyChallenge.AssemblyInfo.cs
+/Users/malikrobinson/Projects/VeryEasyChallenge/VeryEasyChallenge/obj/Debug/netcoreapp2.0/VeryEasyChallenge.dll
+/Users/malikrobinson/Projects/VeryEasyChallenge/VeryEasyChallenge/obj/Debug/netcoreapp2.0/VeryEasyChallenge.pdb

@@ -1,0 +1,11 @@
+/Users/malikrobinson/Projects/EasyChallenge/EasyChallenge/bin/Debug/netcoreapp2.0/EasyChallenge.deps.json
+/Users/malikrobinson/Projects/EasyChallenge/EasyChallenge/bin/Debug/netcoreapp2.0/EasyChallenge.runtimeconfig.json
+/Users/malikrobinson/Projects/EasyChallenge/EasyChallenge/bin/Debug/netcoreapp2.0/EasyChallenge.runtimeconfig.dev.json
+/Users/malikrobinson/Projects/EasyChallenge/EasyChallenge/bin/Debug/netcoreapp2.0/EasyChallenge.dll
+/Users/malikrobinson/Projects/EasyChallenge/EasyChallenge/bin/Debug/netcoreapp2.0/EasyChallenge.pdb
+/Users/malikrobinson/Projects/EasyChallenge/EasyChallenge/obj/Debug/netcoreapp2.0/EasyChallenge.csprojResolveAssemblyReference.cache
+/Users/malikrobinson/Projects/EasyChallenge/EasyChallenge/obj/Debug/netcoreapp2.0/EasyChallenge.csproj.CoreCompileInputs.cache
+/Users/malikrobinson/Projects/EasyChallenge/EasyChallenge/obj/Debug/netcoreapp2.0/EasyChallenge.AssemblyInfoInputs.cache
+/Users/malikrobinson/Projects/EasyChallenge/EasyChallenge/obj/Debug/netcoreapp2.0/EasyChallenge.AssemblyInfo.cs
+/Users/malikrobinson/Projects/EasyChallenge/EasyChallenge/obj/Debug/netcoreapp2.0/EasyChallenge.dll
+/Users/malikrobinson/Projects/EasyChallenge/EasyChallenge/obj/Debug/netcoreapp2.0/EasyChallenge.pdb
